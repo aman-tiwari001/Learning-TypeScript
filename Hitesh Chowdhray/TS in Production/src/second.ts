@@ -40,3 +40,7 @@ const funky2 = (param: number): string => {
   param = param * 10;
   return 'tiwari';
 };
+
+interface TakePhoto {
+  // interfaces can be re opnended and are extendible
+}
